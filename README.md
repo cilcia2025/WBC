@@ -1,11 +1,12 @@
 # WBC
 Welcome to **WBC**! This software is available for download.
+WBC 1.0 - a MATLAB Package for correcting systematic bias in climate model simulations using Wavelet Bias Correction (WBC).
+Detailed of WBC algorithm is available at https://doi.org/10.1029/2022GL100550 and https://doi.org/10.1029/2021GL092953
 
 ## 📥 Download  
 Click the link below to download the files:  
 
 🔗 [Download here](https://drive.google.com/drive/folders/1Ffp9fq4UbgkhGoV3ksAcPj2sSQTM6vFL?usp=drive_link)
-
 
 ## 📌 Usage Instructions  
 1. Download the files from the link above.  
@@ -37,7 +38,7 @@ in the MathWorks Documentation Center.
 
 2. Files to Deploy and Package
 
-Files to Package for Standalone 
+Files to Package for Standalone
 ================================
 -WBC.exe
 -MCRInstaller.exe 
