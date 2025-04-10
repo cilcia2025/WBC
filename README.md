@@ -6,7 +6,7 @@ Detailed of WBC algorithm is available at https://doi.org/10.1029/2022GL100550 a
 ## 📥 Download  
 Click the link below to download the files:  
 
-🔗 [Download here](https://drive.google.com/drive/folders/1Ffp9fq4UbgkhGoV3ksAcPj2sSQTM6vFL?usp=drive_link)
+🔗 [Download here]
 
 ## 📌 Usage Instructions  
 1. Download the files from the link above.  
